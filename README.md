@@ -1,5 +1,9 @@
 # Fabric Defect Detection System
 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/ashen97/fabric-defect-detection)
+
+Check out the live demo here: [**Live App**](https://huggingface.co/spaces/ashen97/fabric-defect-detection)
+
 This repository contains the full project pipelie for fabric defect detection system, developed as part of an MSc in Data Science research project. The system compares traditional Machine Learning (SVM) with Deep Learning (YOLOv8, YOLOv11) approaches to identify defects in textile fabrics in real-time.
 
 ## 📌 Project Overview
